@@ -1,5 +1,7 @@
 {
   "name": "orthodox_web_mobile",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
